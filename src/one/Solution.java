@@ -14,9 +14,9 @@ public class Solution {
         for(int a0 = 0; a0 < t; a0++){
             long n = in.nextInt();
 
-            long upper3=((n-1)-(n-1)%3)/3;
-            long upper5=((n-1)-(n-1)%5)/5;
-            long upper15=((n-1)-(n-1)%15)/15;
+            long upper3=(n-1)/3;
+            long upper5=(n-1)/5;
+            long upper15=(n-1)/15;
 
             long sum3=3*upper3*(upper3+1)/2;
             long sum5=5*upper5*(upper5+1)/2;
