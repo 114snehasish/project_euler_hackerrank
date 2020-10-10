@@ -7,3 +7,6 @@ This repository will be continuously updated to host all the solutions for the o
 
 * Euler 002:    Even Fibonacci numbers
     * Link:     https://www.hackerrank.com/contests/projecteuler/challenges/euler002/problem
+    
+* Euler 002:    Largest prime factor
+    * Link:     https://www.hackerrank.com/contests/projecteuler/challenges/euler003/problem
